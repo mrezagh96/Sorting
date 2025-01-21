@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\bin\Debug\Sorting_Test_DrSaina.exe.config
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\bin\Debug\Sorting_Test_DrSaina.exe
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\bin\Debug\Sorting_Test_DrSaina.pdb
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\obj\Debug\Sorting_Test_DrSaina.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\obj\Debug\Sorting_Test_DrSaina.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\obj\Debug\Sorting_Test_DrSaina.exe
+C:\Users\Lenovo\source\repos\Sorting_Test_DrSaina\obj\Debug\Sorting_Test_DrSaina.pdb
